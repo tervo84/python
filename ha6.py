@@ -18,3 +18,4 @@ turtle.fd(c*kordaja)
 
 
 turtle.done()
+#nvldkfnvlk
